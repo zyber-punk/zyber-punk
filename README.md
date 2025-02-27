@@ -2,9 +2,7 @@
 
 ## 👋 Hi there ! 
 
-🎯 I'm a **Student developer** at **42 Paris**  
-💻 Passionate about **programming, blockchain, and design**  
-🚀 Currently learning **Rust**, **TypeScript**, and **Next.js**  
+I'm Ulysse Zyberaj, a **student developer** at **42 Paris**
 
 ## 🛠 I code using
 
